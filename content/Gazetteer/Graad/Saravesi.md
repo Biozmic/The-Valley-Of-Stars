@@ -1,0 +1,5 @@
+---
+{"publish":true,"created":"2025-12-06T01:05:06.739-05:00","modified":"2025-12-10T00:16:15.503-05:00","cssclasses":""}
+---
+
+Truly, everyone hates this place. A small self sufficient village on the path towards bigger locations in [[Gazetteer/Graad/Graad]]never really saw much visitors. until Dorian came along, a very wealthy noble who decided to plop down a large castle and claim he owns and rules over that land. Given Saravesi was not in any particular district, or under any protection, there wasn't really much the meager villagers could do about it, other than voice their protests. It didn't turn out all that bad, at least now they had some protection. Outside of a small tavern and a few farms, Saravesi doesn't have much to offer anyone stopping by outside of a drink and comfortable nights rest.
